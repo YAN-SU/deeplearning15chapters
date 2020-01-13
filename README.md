@@ -1,6 +1,7 @@
 ## deeplearning15chapters
 
-## 20200113  
+## 
+  20200113  
   开始学习Deep Learning  
   通过以下github网址：https://github.com/exacity/deeplearningbook-chinese  
   辅助以下专门这门课程提供学习资料的网站：http://www.deeplearningbook.org/  
